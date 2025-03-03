@@ -1,4 +1,4 @@
-# Mejor-Project
+# Major-Project
 Abstract: 
 “Development of AI-ML based models for predicting prices of 
 agri-horticultural commodities such as pulses and vegetable 
@@ -16,4 +16,4 @@ investigation, the proposed method looked at a few fruits, vegetables, and pulse
 The proposed method employed a variety of variables, including temperature, and 
 market pricing. The proposed method also provides a time series analysis of the 
 price and gain for the upcoming year compared to the previous year. 
-Keywords: Machine Learning, Prediction, Vegetable 
+Keywords: Machine Learning, Prediction, Vegetable
