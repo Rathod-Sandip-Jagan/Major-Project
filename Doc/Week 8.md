@@ -1,0 +1,3 @@
+Week 8
+Conclusion:
+This project developed an AI/ML-based system to predict prices of vegetables like onion, potato, and tomato using SARIMA and Random Forest models. It provides accurate price forecasts by analyzing historical data and seasonal trends. The system helps farmers, traders, and government agencies make better decisions. It aims to reduce price volatility and improve market stability. Future work can include real-time data integration and expanding to more crops.
